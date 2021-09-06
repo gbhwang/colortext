@@ -3,7 +3,7 @@ from setuptools import setup, version
 
 setup(
     name="colortext",
-    version="1.0.0",
+    version="1.1.0",
     description="Return Colored Text",
     url="https://github.ls-electric.com/gbhwang/char_colors.git",
     author="gbhwang",
