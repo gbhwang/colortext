@@ -15,6 +15,14 @@ class OutputCellColors:
         "magenta": "\033[35m",
         "cyan": "\033[36m",
         "white": "\033[37m",
+        "bright-black": "\033[90m",
+        "bright-red": "\033[91m",
+        "bright-green": "\033[92m",
+        "bright-yellow": "\033[93m",
+        "bright-blue": "\033[94m",
+        "bright-magenta": "\033[95m",
+        "bright-cyan": "\033[96m",
+        "bright-white": "\033[97m",
     }
 
     BACKGROUND = {
@@ -26,6 +34,14 @@ class OutputCellColors:
         "magenta": "\033[45m",
         "cyan": "\033[46m",
         "white": "\033[47m",
+        "bright-black": "\033[90m",
+        "bright-red": "\033[91m",
+        "bright-green": "\033[92m",
+        "bright-yellow": "\033[93m",
+        "bright-blue": "\033[94m",
+        "bright-magenta": "\033[95m",
+        "bright-cyan": "\033[96m",
+        "bright-white": "\033[97m",
     }
 
     F_RESET = "\033[39m"
