@@ -73,7 +73,7 @@ def colored(text: str, color: Union[str, int]) -> str:
 
     Args:
         text (str): 문자열
-        color (Union[str, int]): 사전정의색상(black, red, green, yellow, blue, magenta, cyan, white)
+        color (Union[str, int]): 사전정의색상 8+8 (black, red, green, yellow, blue, magenta, cyan, white, bright-COLOR(8))
 
     Returns:
         str: 색상 변경된 문자열
@@ -103,7 +103,7 @@ def bcolored(text: str, color: Union[str, int]) -> str:
 
     Args:
         text (str): 문자열
-        color (Union[str, int]): 사전정의색상(black, red, green, yellow, blue, magenta, cyan, white)
+        color (Union[str, int]): 사전정의색상 8+8 (black, red, green, yellow, blue, magenta, cyan, white, bright-COLOR(8))
 
     Returns:
         str: 색상 변경된 문자열
