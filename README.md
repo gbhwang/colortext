@@ -5,7 +5,7 @@
 ## Installation
 
 ```shell
-pip install git+https://github.ls-electric.com/gbhwang/char_colors.git
+pip install git+https://github.com/gbhwang/colortext.git
 ```
 
 ## Usage
