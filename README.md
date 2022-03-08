@@ -1,6 +1,6 @@
 # Colortext
 
-`colortext`를 사용하면 python shell 또는 Notebook output cell에 색이 들어간 문자열을 출력할 수 있습니다.
+`colortext`를 사용하여 python shell 또는 Notebook output cell에서 다른 색상의 텍스트를 출력할 수 있습니다.
 
 ## Installation
 
